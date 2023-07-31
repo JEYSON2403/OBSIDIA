@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "c2f231d75b30c63d",
+    "type": "split",
+    "children": [
+      {
+        "id": "92130c4a0718bbff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0b569e46511fc15",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "181b1bb73fd5a913",
+    "type": "split",
+    "children": [
+      {
+        "id": "85b1105d85078f70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01f3bd1168f5836f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4fa2cdffd68c736",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc87b5b94d1f505e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "67e380c479721f71",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6a1c0f164fd8e77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ba1eed33530e7d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1bde59c5350e4ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d5bdfe75eb95a97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbe98de4fa2173b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c0b569e46511fc15",
+  "lastOpenFiles": [
+    "CHAP GPT/IMAGENES DE CHAT GPT/Pasted image 20230730200306.jpg",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "CHAP GPT/TEORIA DE CHAT GPT.md",
+    "CHAP GPT/IMAGENES DE CHAT GPT/Pasted image 20230730200330.jpg",
+    "Machine Learning/TEORIA DE Machine Learning.md",
+    "IA/IMAGENES SOBRE LA IA/Pasted image 20230730201303.jpg",
+    "Untitled.md",
+    "TIPO DE DATOS/IMAGENES DE REFERENCIA/Pasted image 20230730203435.png",
+    "TIPO DE DATOS/IMAGENES DE REFERENCIA/Pasted image 20230730203421.png",
+    "TIPO DE DATOS/IMAGENES DE REFERENCIA",
+    "TIPO DE DATOS/IMAGENES DE CLASES",
+    "TIPO DE DATOS/IMAGENES DE REFERENCIA/Pasted image 20230730203316.png",
+    "TIPO DE DATOS/IMAGENES DE CLASES/Pasted image 20230730203245.jpg",
+    "TIPO DE DATOS/IMAGENES DE CLASES/Pasted image 20230730203238.jpg",
+    "TIPO DE DATOS/IMAGENES DE CLASES/Pasted image 20230730203234.jpg",
+    "TIPO DE DATOS/IMAGENES DE CLASES/Pasted image 20230730203231.jpg",
+    "TIPO DE DATOS/IMAGENES DE CLASES/Pasted image 20230730203227.jpg",
+    "OBSIDIAN/TEORIA DE OBSIDIAN.md",
+    "TIPO DE DATOS/TEORIA TIPO DE DATOS.md",
+    "TIPO DE DATOS",
+    "OBSIDIAN/IMAGENES DE OBSIDIAN",
+    "OBSIDIAN",
+    "NATIVOS DIGITALES/DRAWING/TEORIA SOBRE DRAWING.md",
+    "NATIVOS DIGITALES/DRAWING/IMAGENES DE DRAWING",
+    "NATIVOS DIGITALES/DRAWING",
+    "NATIVOS DIGITALES",
+    "NLP/TEORI SOBRE LA NLP.md",
+    "NLP/IMAGENES SOBRE NLP",
+    "NLP",
+    "IA/TEORIA DE LA IA.md",
+    "IMAGENES SOBRE LA IA.md",
+    "NATIVOS DIGITALES/EXCALIDRAW/TEORIA DE EXCALIDRAW.md",
+    "EXCALIDRAW/IMAGENES DE EXCALIDRAW.md",
+    "CHAP GPT/IMAGENES DE REFERENCIA.md",
+    "Untitled 1.md",
+    "CURSO DE CAPACITACION.md"
+  ]
+}
